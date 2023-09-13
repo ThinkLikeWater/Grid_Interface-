@@ -7,4 +7,4 @@
 "pyinstaller --onefile main.py" will build you application pythonProject/dist/main.exe
 
 ---
-## Also you can just run main.py file, it will open application as well.
+## Also you can just run main.py file, it will open application as well, without buildging.
